@@ -19,7 +19,7 @@
 
 ### How It Works
 
-EmuLnk connects to emulators over UDP, reads game memory in real time, and renders themed overlays — health bars, inventories, maps, enemy stats — on your second screen. Themes are HTML/CSS/JS WebViews driven by live data defined in JSON profiles.
+EmuLnk connects to emulators over UDP, reads game memory in real time, and renders themed overlays, which include health bars, inventories, maps and enemy stats on your second screen. Themes are HTML/CSS/JS WebViews driven by live data defined in JSON profiles.
 
 ### Repositories
 
@@ -30,3 +30,4 @@ EmuLnk connects to emulators over UDP, reads game memory in real time, and rende
 | [`retroarch-lnk`](https://github.com/EmuLnk/retroarch-lnk) | RetroArch fork · SNES, NES, Genesis, GB/GBC, GBA, N64, PS1 |
 | [`dolphin-lnk`](https://github.com/EmuLnk/dolphin-lnk) | Dolphin fork · GameCube, Wii |
 | [`ppsspp-lnk`](https://github.com/EmuLnk/ppsspp-lnk) | PPSSPP fork · PSP |
+
