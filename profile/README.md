@@ -30,4 +30,5 @@ EmuLnk connects to emulators over UDP, reads game memory in real time, and rende
 | [`retroarch-lnk`](https://github.com/EmuLnk/retroarch-lnk) | RetroArch fork · SNES, NES, Genesis, GB/GBC, GBA, N64, PS1 |
 | [`dolphin-lnk`](https://github.com/EmuLnk/dolphin-lnk) | Dolphin fork · GameCube, Wii |
 | [`ppsspp-lnk`](https://github.com/EmuLnk/ppsspp-lnk) | PPSSPP fork · PSP |
+| [`melonds-lnk`](https://github.com/EmuLnk/melonDS-lnk) | melonDS fork · NDS, DSi |
 
