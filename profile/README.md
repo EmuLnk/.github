@@ -31,4 +31,6 @@ EmuLnk connects to emulators over UDP, reads game memory in real time, and rende
 | [`dolphin-lnk`](https://github.com/EmuLnk/dolphin-lnk) | Dolphin fork · GameCube, Wii |
 | [`ppsspp-lnk`](https://github.com/EmuLnk/ppsspp-lnk) | PPSSPP fork · PSP |
 | [`melonds-lnk`](https://github.com/EmuLnk/melonDS-lnk) | melonDS fork · NDS, DSi |
+| [`azahar-lnk`](https://github.com/EmuLnk/azahar-lnk) | Azahar fork · 3DS |
+
 
