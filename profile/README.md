@@ -5,8 +5,8 @@
 <h1 align="center">EmuLnk</h1>
 
 <p align="center">
-  <strong>Your second screen, themed.</strong><br/>
-  Emulator companion app that turns your second screen into a live game dashboard.
+  <strong>The DS experience, for every emulator.</strong><br/>
+  Show live game data on your second screen, or on top of the game.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ### How It Works
 
-EmuLnk connects to emulators over UDP, reads game memory in real time, and renders themed overlays, which include health bars, inventories, maps and enemy stats on your second screen. Themes are HTML/CSS/JS WebViews driven by live data defined in JSON profiles.
+EmuLnk connects to emulators over UDP, reads game memory in real time, and renders it as HTML themes. Health bars, inventories, maps, enemy stats, either on your second screen as a dashboard or as floating overlay widgets on top of the game. Themes are HTML/CSS/JS WebViews driven by live data from JSON profiles.
 
 ### Repositories
 
@@ -32,5 +32,3 @@ EmuLnk connects to emulators over UDP, reads game memory in real time, and rende
 | [`ppsspp-lnk`](https://github.com/EmuLnk/ppsspp-lnk) | PPSSPP fork · PSP |
 | [`melonds-lnk`](https://github.com/EmuLnk/melonDS-lnk) | melonDS fork · NDS, DSi |
 | [`azahar-lnk`](https://github.com/EmuLnk/azahar-lnk) | Azahar fork · 3DS |
-
-
