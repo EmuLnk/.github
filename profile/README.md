@@ -13,6 +13,7 @@
   <a href="https://github.com/EmuLnk/emulnk/releases"><img src="https://img.shields.io/github/v/release/EmuLnk/emulnk?include_prereleases&style=for-the-badge&color=B47CFF&label=Release&logo=github&logoColor=white" alt="Release"/></a>
   &nbsp;
   <a href="https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/https://github.com/EmuLnk/emulnk"><img src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png" height="28" alt="Get it on Obtainium"/></a>
+  <a href="https://discord.gg/Qn2KQBdwRH"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 ---
